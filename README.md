@@ -17,3 +17,4 @@ https://ios-profile-gen.kalzareth.workers.dev
 کد بالا رو جایگزین کن.
 
 دامنه دلخواه رو به Worker وصل کن.
+(image/simple.png)
