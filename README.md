@@ -12,6 +12,6 @@
 
 از بخش Workers & Pages، یک Worker جدید بساز.
 
-کد بالا رو جایگزین کن.
+کد بالا worker.js رو جایگزین کن.
 
 ![نمونه پروفایل DNS](image/simple.png)
